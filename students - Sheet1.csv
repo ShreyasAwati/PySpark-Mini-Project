@@ -1,0 +1,10 @@
+age,gender,name,course,roll no,marks,email
+17.9,M,John,Hispanic,111111,59,jdoe@example.com
+18.1,F,Jane,Hispanic,111112,56,jsmith@example.com
+17.6,M,Sarah,Hispanic,111113,45,sthomas@example.com
+19,M,Frank,Race/ethnicity unknown,111114,67,fbrown@example.com
+18.2,F,Mike,White,111115,89,mdavis@example.com
+18.5,M,Jennifer,Asian,111116,33,jwilson@example.com
+18.8,F,Jessica,White,111117,55,jgarcia@example.com
+19.2,F,Fred,Hispanic,111118,70,fclark@example.com
+18.5,F,Bob,White,111119,51,blopez@example.com
